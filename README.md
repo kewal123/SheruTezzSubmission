@@ -1,3 +1,10 @@
+![alt text](https://github.com/kewal123/SheruTezzSubmission/blob/main/20210909_171654.jpg)
+
+
+
+
+
+
 1. Create a server which accepts socket connections from clients and which parses the
 data.
 
