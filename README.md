@@ -1,4 +1,4 @@
-![alt text](https://github.com/kewal123/SheruTezzSubmission/blob/main/20210909_171654.jpg = 250 X 250)
+![alt text](https://github.com/kewal123/SheruTezzSubmission/blob/main/20210909_171654-2.jpg)
 
 
 
