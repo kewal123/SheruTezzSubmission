@@ -1,6 +1,6 @@
 ![alt text](https://github.com/kewal123/SheruTezzSubmission/blob/main/20210909_171654-2.jpg)
 
-
+![alt text](https://github.com/kewal123/SheruTezzSubmission/blob/main/Screenshot%202021-09-09%20at%207.33.25.png)
 
 
 
